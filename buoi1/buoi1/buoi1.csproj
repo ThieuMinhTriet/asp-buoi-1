@@ -124,6 +124,7 @@
     <Compile Include="Controllers\AdmissionsController.cs" />
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\CoursesController.cs" />
+    <Compile Include="Controllers\CourseSingleController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\NewsController.cs" />
@@ -354,6 +355,7 @@
     <Content Include="Views\About\Index.cshtml" />
     <Content Include="Views\Admissions\Index.cshtml" />
     <Content Include="Views\Courses\Index.cshtml" />
+    <Content Include="Views\CourseSingle\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
